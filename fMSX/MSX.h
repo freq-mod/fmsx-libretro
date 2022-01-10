@@ -17,7 +17,7 @@
 #include "Z80.h"            /* Z80 CPU emulation             */
 #include "V9938.h"          /* V9938 VDP opcode emulation    */
 #include "AY8910.h"         /* AY8910 PSG emulation          */
-#include "YM2413.h"         /* YM2413 OPLL emulation         */
+#include "emu2413.h"         /* YM2413 OPLL emulation         */
 #include "SCC.h"            /* Konami SCC chip emulation     */
 #include "I8255.h"          /* Intel 8255 PPI emulation      */
 #include "WD1793.h"         /* WD1793 FDC emulation          */
